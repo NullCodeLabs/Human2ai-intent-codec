@@ -1,8 +1,11 @@
 # human2ai-intent-codec — @NullCodeLabs
 
 > **HSL-C Codec v0.4** | Human intent → AI-executable constraint space  
-> Category: Intent Engineering | Level: Advanced | Language: EN + HU
+> Category: Intent Engineering; intent-classification; osint; disruptive-innovation; automation
+> | Level: Advanced | Language: EN + HU
 
+"HSL-C Codec: Translating human intent into AI-executable constraint space.
+Features: OSINT integration, Competitive Intelligence, and Disruptive Logic."
 ---
 
 ## What is this?
