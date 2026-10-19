@@ -16,3 +16,5 @@ Amint a széles radaron felvillan egy működő idegen mechanizmus (pl. vesecser
 ússz rá maximális felbontással, hámozd le róla az eredeti iparág jelmezét, és építsd be a tiszta funkcionális fegyvert az aktuális feladathoz.
 
 SUPERVISOR GATE: Ha a modell két egymást követő lépésben ugyanabban a szakmai silóban érvel, a Supervisor Body köteles leállítani, és lefuttatni a
+
+
